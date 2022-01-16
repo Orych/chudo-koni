@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>Заголовок документа</title>
+  </head>
+<body>
+ < script language ="JavaScript" SRC="js/script.js"> </script>
+  </body>
+</html>
